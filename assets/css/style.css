@@ -9,6 +9,6 @@ main .carousel-inner img {
     filter: grayscale(70%);
 }
 
-#main .carousel-caption h5, p{
+/* #main .carousel-caption h5, p{
     color:#FF0000;
-}
+} */
