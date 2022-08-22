@@ -1,0 +1,9 @@
+#main .carousel-inner img {
+    max-height: auto;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+#carouselExampleCaptions {
+    position: relative;
+}
