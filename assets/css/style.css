@@ -1,9 +1,9 @@
 #main .carousel-inner img {
-    max-height: auto;
-    max-width: 100%;
-    object-fit: cover;
+    max-height: 90vh;
+    object-fit:none;
+    filter: grayscale(70%);
 }
 
-#carouselExampleCaptions {
-    position: relative;
+#main .carousel-caption h5, p{
+    color:#FF0000;
 }
