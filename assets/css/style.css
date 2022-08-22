@@ -1,4 +1,9 @@
-#main .carousel-inner img {
+#header img {
+    width: 90px;
+    height: 40px;
+}
+
+main .carousel-inner img {
     max-height: 90vh;
     object-fit:none;
     filter: grayscale(70%);
